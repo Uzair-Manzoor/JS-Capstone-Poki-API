@@ -52,7 +52,7 @@ Currently, this website only follows a small wireframe with no real functionalit
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-https://saveryiv.github.io/Javascript-Capstone-Project/dist/
+- [Visit Live Demo](https://uzair-manzoor.github.io/JS-Capstone-Poki-API/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
