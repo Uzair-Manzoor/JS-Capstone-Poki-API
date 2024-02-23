@@ -54,6 +54,8 @@ Currently, this website only follows a small wireframe with no real functionalit
 
 - [Visit Live Demo](https://uzair-manzoor.github.io/JS-Capstone-Poki-API/)
 
+  ![image](https://raw.githubusercontent.com/Uzair-Manzoor/JS-Capstone-Poki-API/eb8c7670df78edf3aca536254f21d327f9220a3d/src/assets/Poki-api.png)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
